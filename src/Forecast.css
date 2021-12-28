@@ -1,0 +1,14 @@
+.weather-forecast {
+  color: cornsilk;
+  line-height: 10mm;
+  text-align: center;
+  font-size: 12pt;
+  height: calc(1.5 em + 0.75 rem + 2 px);
+  background: linear-gradient(
+    112.5deg,
+    rgb(104, 70, 119) 11.4%,
+    rgb(160, 111, 145) 60.2%
+  );
+  display: block;
+  margin: 0 auto;
+}
