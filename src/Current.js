@@ -1,5 +1,4 @@
 import React from "react";
-import axios from "axios";
 import "./Current.css";
 
 export default function Current() {
